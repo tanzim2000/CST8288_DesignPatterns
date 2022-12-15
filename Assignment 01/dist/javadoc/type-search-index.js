@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"businesslayer","l":"BusinessLogic"},{"p":"dataaccesslayer","l":"DataSource"},{"p":"<Unnamed>","l":"Main"},{"p":"dataaccesslayer","l":"StudentDAO"},{"p":"dataaccesslayer","l":"StudentDAOInterface"},{"p":"transferobjects","l":"StudentDTO"}];updateSearchResults();
